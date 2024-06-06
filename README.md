@@ -10,11 +10,6 @@ This app is developed by GoLang.
 ## Installation
 
 - Clone the project from <https://github.com/princecharming0115/bringyour-test> and navigate.
-- Install dependencies using this command.
-
-```bash
-go get
-```
 
 - Rename `.env.example` to `.env`
 
